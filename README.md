@@ -1,2 +1,3 @@
 # hello-world
 This is an introduction to GitHub
+Hi I am Levi Kamara Zwannah. I am learning github right now...
